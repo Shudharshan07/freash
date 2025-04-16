@@ -1,0 +1,1 @@
+C:\All Files\Vision\object_detection\build\app\intermediates\cxx\RelWithDebInfo\346p4846\obj\arm64-v8a
